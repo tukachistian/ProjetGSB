@@ -1,0 +1,75 @@
+html, body{
+    background-color:#b0dbc7!important;
+}
+img{
+    height: 200px;
+}
+
+.formulaire{
+    width: 800px;
+    height: 700px;
+    padding: 100px;
+    border: 8px solid #CCC;
+    border-radius: 20px;
+    align-items: center;
+   justify-content: space-around;
+   background-color: beige;
+}
+
+
+.AcceéDRH{
+    display: flex;  
+    margin-top: 200px;
+    justify-content: space-around;
+}
+.buttonacceé{
+    height: 80px;
+    width: 300px !important;
+    border-radius: 160%;
+    text-align: center;
+    background-color: springgreen;
+    margin-top: 70px;
+    margin-left: 250px;
+
+}
+
+/* FOOTER */
+footer{
+    background-color:  #51A7A1;
+    height: 300px;
+    display: flex;
+    align-items: center; 
+    margin-top: 212px;
+}
+.footer{
+    background-color: #00857C;
+    height: 140px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+h4{
+    font-size: 230px !important;
+    color:  #51A7A1 !important ;
+    font-family: 'Arapey', serif;
+    letter-spacing: 3rem;
+}
+.lien-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+.mention{
+    margin-top: 15px;
+    margin-bottom: -20px;
+    padding-right: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #00857C;
+}
+.mention:hover{
+    color: #00857C;
+}
